@@ -19,7 +19,6 @@ import org.json.JSONObject;
 import entity.Item;
 import entity.Item.ItemBuilder;
 
-
 public class TicketMasterAPI {
 	
 	private static final String URL = "https://app.ticketmaster.com/discovery/v2/events.json";
