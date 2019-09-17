@@ -3,6 +3,9 @@ A full-stack web application that uses Content-Based Recommendation for obtainin
 
 The project has been deployed to AWS EC2, feel free to click the link above.
 
+# You need to create a Ticket Master API key and insert into TicketMasterAPI.java class to run the web application
+* reference website: https://developer.ticketmaster.com/
+
 # Front-end: 
 * HTML, CSS, JavaScript and AJAX
 
